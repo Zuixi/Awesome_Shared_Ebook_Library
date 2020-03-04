@@ -3,7 +3,7 @@ It's for sharing pretty good ebooks or Notes.In odred to spread knowledge and ma
 honestly, I will upload books about CS or other funny else.
 
 # Book Catagories
-* computer system
+* Computer System
 * C# language
 * C++ language
 * Funny Algorithm
