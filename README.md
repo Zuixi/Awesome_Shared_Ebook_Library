@@ -8,6 +8,14 @@ honestly, I will upload books about CS or other funny else.
 * C++ language
 * Funny Algorithm
 * Debug Skiils
+* Python
+* Unix
+* History Reading
+* Touching_Story
+* WPF
+* 计算机图形学
+* 数据结构
+* Deep Learning
 * ...
 
 # How to add your books
