@@ -16,6 +16,7 @@ honestly, I will upload books about CS or other funny else.
 * 计算机图形学
 * 数据结构
 * Deep Learning
+* 经济类
 * ...
 
 # How to add your books
